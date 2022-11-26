@@ -15,4 +15,6 @@
     <color name="black">#FF000000</color>
     <color name="bg_lightgray">#DCDCDC</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="light_text_black">#32000000</color>
 </resources>
