@@ -5,6 +5,16 @@
     <color name="purple_700">#FF3700B3</color>
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
+    <!-- CUSTOM COLORS BELOW -->
+    <color name="pd_lightblue">#007ac1</color>
+    <color name="p_lightblue">#03a9f4</color>
+    <color name="pl_lightblue">#67daff</color>
+    <color name="sd_amber">#c68400</color>
+    <color name="s_amber">#ffb300</color>
+    <color name="sl_amber">#ffe54c</color>
     <color name="black">#FF000000</color>
+    <color name="bg_lightgray">#DCDCDC</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="light_text_black">#32000000</color>
 </resources>
