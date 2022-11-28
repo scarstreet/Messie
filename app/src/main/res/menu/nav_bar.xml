@@ -2,19 +2,19 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item
-        android:id="@+id/statistics"
+        android:id="@+id/fragment_statistics"
         android:icon="@drawable/ic_baseline_show_chart_24"
         android:title="My Stats" />
     <item
-        android:id="@+id/home"
+        android:id="@+id/fragment_home"
         android:icon="@drawable/ic_baseline_home_24"
         android:title="Home" />
     <item
-        android:id="@+id/goalList"
+        android:id="@+id/fragment_goal_list"
         android:icon="@drawable/ic_baseline_checklist_24"
         android:title="Goal List" />
     <item
-        android:id="@+id/settings"
+        android:id="@+id/fragment_settings"
         android:icon="@drawable/ic_baseline_settings_24"
         android:title="Settings" />
 </menu>
