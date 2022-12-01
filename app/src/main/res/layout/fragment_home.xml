@@ -49,6 +49,7 @@
                     android:textColor="@color/light_text_black" />
 
                 <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/today_recycler_view"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:background="@drawable/shape_rounded_solid_bg"
@@ -89,6 +90,7 @@
                     android:textColor="@color/light_text_black" />
 
                 <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/suggested_recycler_view"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:paddingLeft="6dp"
